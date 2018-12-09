@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-image: url("https://hsudml.github.io/skillshops/assets/images/skillshopsBanner.png");
+  background-repeat: no-repeat, repeat;
+  background-size: contain;
+  background-attachment: fixed;
+}
