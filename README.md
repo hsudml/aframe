@@ -1,12 +1,12 @@
 # A-Frame Project
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
+Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Components. Works on Vive, Rift, desktop, mobile platforms, though controller functionality can get a bit confusing.
 
 Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://webvr.rocks)!
 
 ## How-to
 
-If you are interested in remixing this but don't know where to start - you're here! This is a beginner tutorial project that you can start remixing following the instructions below. 
+If you are interested in remixing this but don't know where to start - you're here! This is a beginner tutorial project that you can start remixing by following the instructions below. 
 
 ### Docs
 
